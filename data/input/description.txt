@@ -1,0 +1,6 @@
+File descriptions
+
+train1M.csv - Input features and target fare_amount values for the training set (original data has about 54M rows, this file has the first 1M).
+test.csv - Input features for the test set (about 10K rows). The goal is to predict fare_amount for each row.
+
+Original data can be found at https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data
