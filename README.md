@@ -1,4 +1,4 @@
-# NYTaxiPrice
+# New York Taxi Fare Price Notebook - XGBoost with Optuna
 A basic overview of feature selection and sklearn for taxi fare prediction in New York. XGBoost is used in conjunction with Optuna for hyperparameter tuning.
 
 A lot more work can be done on this but it illustrates the basics of creating new features to improve our predictions and plotting our data to identify outliers. Further work can be done here to eliminate outliers, but out of 2 million observations removing these few remaining outliers is unlikely to have any noticeable change.
